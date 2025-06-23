@@ -14,7 +14,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://www.linkedin.com/in/rachana-yashwant-0b8918355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+(https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rachana-yashwant-0b8918355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:Rachanayashwant22@gmail.com)
 
 ---
